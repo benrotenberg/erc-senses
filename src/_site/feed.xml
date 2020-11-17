@@ -4,10 +4,10 @@
     <title>SENSES project</title>
     <description>ERC Grant agreement  863473&lt;br/&gt; Hosted by CNRS 
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 16 Nov 2020 19:06:09 +0100</pubDate>
-    <lastBuildDate>Mon, 16 Nov 2020 19:06:09 +0100</lastBuildDate>
+    <link>https://benrotenberg.github.io/</link>
+    <atom:link href="https://benrotenberg.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 17 Nov 2020 09:01:36 +0100</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2020 09:01:36 +0100</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
   </channel>
