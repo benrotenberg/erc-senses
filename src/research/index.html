@@ -1,0 +1,30 @@
+---
+layout: default
+title: research
+rank: 3
+---
+
+{% if site.research.presentation.overview %}
+<h2><span class="text-primary">Overview</span></h2>
+{% include research_overview.html %}
+{% endif %}
+
+{% if site.research.presentation.inreview %}
+<h2><span class="text-primary">Preprints</span></h2>
+{% assign interval=site.research.restriction.publications %}
+{% include preprints.html nbyears=interval %}
+{% endif %}
+
+{% if site.research.presentation.publications %}
+<h2 id="Publications"><span class="text-primary">Publications</span></h2>
+{% assign interval=site.research.restriction.publications %}
+{% include publications.html nbyears=interval %}
+{% endif %}
+
+{% if site.research.presentation.software %}
+<h2><span class="text-primary">Software</span></h2>
+{% include software.html %}
+{% endif %}
+
+<br>
+
