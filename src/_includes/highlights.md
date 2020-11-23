@@ -1,3 +1,10 @@
+Iurii Chubak starts his post-doc (11/23/2020)
+=============================================
+
+Iurii will work on molecular simulations of electric field gradient fluctuations in electrolytes, to understand the NMR relaxation of quadrupolar nuclei. 
+
+On the experimental side, we will benefit from the expertise of colleagues in the PHENIX laboratory: Anne-Laure Rollet, Guillaume Mériguet, Pierre Levitz and Jean-Pierre Korb.
+
 Minh-Thé Hoang Ngoc starts his PhD (10/1/2020)
 ==============================================
 
