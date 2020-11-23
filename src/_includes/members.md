@@ -6,7 +6,7 @@ Current members
 
 * Minh-Thé Hoang Ngoc is a PhD student, working on mesoscopic simulations of ionic current fluctuations through nanotubes.
 
-* Iurii Chuback is a post-doctoral research associate, working on molecular simulations of electric field gradient fluctuations in electrolytes, to understand the NMR relaxation of quadrupolar nuclei.
+* Iurii Chubak is a post-doctoral research associate, working on molecular simulations of electric field gradient fluctuations in electrolytes, to understand the NMR relaxation of quadrupolar nuclei.
 
 * [Mathieu Salanne](https://www.phenix.cnrs.fr/spip.php?article305) is a professor at Sorbonne Université.  Within SENSES, he brings his expertise on the development of molecular simulation for 
 electrochemical interfaces, in particular as the main developper of the [MetalWalls](https://gitlab.com/ampere2/metalwalls/) code.
