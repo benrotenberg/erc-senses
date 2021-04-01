@@ -8,6 +8,8 @@ Current members
 
 * Iurii Chubak is a post-doctoral research associate, working on molecular simulations of electric field gradient fluctuations in electrolytes, to understand the NMR relaxation of quadrupolar nuclei.
 
+* Giovanni Pireddu is a post-doctoral research associate, working on mesoscopic simulations of electrode-electrolyte interfaces, to understand nano-electrochemistry experiments.
+
 * [Mathieu Salanne](https://www.phenix.cnrs.fr/spip.php?article305) is a professor at Sorbonne Université.  Within SENSES, he brings his expertise on the development of molecular simulation for 
 electrochemical interfaces, in particular as the main developper of the [MetalWalls](https://gitlab.com/ampere2/metalwalls/) code.
  

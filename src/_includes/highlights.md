@@ -1,3 +1,10 @@
+Giovanni Pireddu starts his post-doc (04/01/2021)
+=================================================
+
+Giovanni will work on mesoscopic simulations of electrode-electrolyte interfaces, to understand nano-electrochemistry experiments.
+ 
+On the experimental side, we will benefit from a collaboration with Vincent Noël at Université de Paris.
+
 Iurii Chubak starts his post-doc (11/23/2020)
 =============================================
 
