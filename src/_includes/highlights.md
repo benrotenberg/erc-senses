@@ -1,3 +1,11 @@
+Jeongmin Kim starts his post-doc (10/18/2021)
+=============================================
+
+Jeongmin will work on molecular simulations of concentrated electrolytes, to understand Surface Force Balance experiments. 
+
+On the experimental side, we will benefit from a collaboration with Susan Perkin at the University of Oxford.
+
+
 Giovanni Pireddu starts his post-doc (04/01/2021)
 =================================================
 
