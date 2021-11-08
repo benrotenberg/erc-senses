@@ -1,7 +1,7 @@
 Laura Scalfi among the 2021 L'Oréal-UNESCO Young Talents France for Women in Science
 ====================================================================================
 
-Congratulations to Laura for this impressive achievement! More details [here](https://www.sorbonne-universite.fr/portraits/laura-scalfi)
+Congratulations to Laura for this impressive achievement! More details [here](https://www.sorbonne-universite.fr/portraits/laura-scalfi).
 
 Laura has now moved to Berlin for a post-doc in Roland Netz's group at the Freie Universität Berlin.
 
