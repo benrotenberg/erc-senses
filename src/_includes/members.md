@@ -35,13 +35,13 @@ The SENSES project focuses on theory and simulation, but benefits from collabora
 Others
 ======
 
-They do not participate directly in the project, but work with the principal investigator on closely related topics:
+They are not funded by the project, but work with the principal investigator on closely related topics:
 
-* [Laura Scalfi](https://www.phenix.cnrs.fr/spip.php?rubrique334) is a PhD student (funded by the Ministry of Higher Education, Research and Innovation), supervised by Benjamin Rotenberg. She studies electrochemical interfaces using molecular simulations, including charge fluctuations, and is one of the main developers of the [MetalWalls](https://gitlab.com/ampere2/metalwalls/) code.  
+* [Laura Scalfi](https://www.phenix.cnrs.fr/spip.php?rubrique334) is a former PhD student (funded by the Ministry of Higher Education, Research and Innovation), supervised by Benjamin Rotenberg. During her PhD (2018-2021), she studied electrochemical interfaces using molecular simulations, including charge fluctuations, and is one of the main developers of the [MetalWalls](https://gitlab.com/ampere2/metalwalls/) code.  
 
-* [Dominika Lesnicki](https://www.phenix.cnrs.fr/spip.php?rubrique330) is a post-doctoral research associate (funded by the ANR-DFG NEPTUNE project then by the FET-OPEN NANOPHLOW project), working with Benjamin Rotenberg, on electric current fluctuations to predict the non-linear response of electrolytes to electric fields.
+* [Dominika Lesnicki](https://www.phenix.cnrs.fr/spip.php?rubrique330) is a former post-doctoral research associate (funded by the ANR-DFG NEPTUNE project then by the FET-OPEN NANOPHLOW project), working with Benjamin Rotenberg from 2018 to 2020, on electric current fluctuations to predict the non-linear response of electrolytes to electric fields.
 
-* [Sophie Marbach](http://sophie.marbach.fr/) is a Marie Sklodowska Curie Research fellow, principal investigator of the Molecular Control project, for the fine control of molecular or ionic transport  in  non  equilibrium  systems  driven  by  electric  or  chemical  gradients. The project is hosted by CNRS at the PHENIX laboratory (with Benjamin Rotenberg) and in the Courant Institute of New York University (with Alexandr Donev and Miranda Holmes-Cerfon).
+* [Sophie Marbach](http://sophie.marbach.fr/) is a Marie Sklodowska Curie Research fellow, principal investigator of the Molecular Control project (2020-2023), for the fine control of molecular or ionic transport  in  non  equilibrium  systems  driven  by  electric  or  chemical  gradients. The project is hosted by CNRS at the PHENIX laboratory (with Benjamin Rotenberg) and in the Courant Institute of New York University (with Alexandr Donev and Miranda Holmes-Cerfon).
 
 * [Maximilien Levesque](https://www.researchgate.net/profile/Maximilien_Levesque) is a CNRS researcher. He is the other main developer of the [LABOETIE](https://github.com/benrotenberg/laboetie) code.
 
