@@ -1,3 +1,11 @@
+Swetha Nair starts her PhD (10/10/2022)
+==============================================
+
+Swetha will work on molecular simulations of electrode-electrolyte interfaces, to understand nano-electrochemistry experiments.
+
+On the experimental side, we will benefit from a collaboration with Vincent Noël at Université Paris Cité. 
+
+
 Laura Scalfi among the 2021 L'Oréal-UNESCO Young Talents France for Women in Science
 ====================================================================================
 
@@ -19,7 +27,8 @@ Giovanni Pireddu starts his post-doc (04/01/2021)
 
 Giovanni will work on mesoscopic simulations of electrode-electrolyte interfaces, to understand nano-electrochemistry experiments.
  
-On the experimental side, we will benefit from a collaboration with Vincent Noël at Université de Paris.
+On the experimental side, we will benefit from a collaboration with Vincent Noël at Université Paris Cité.
+
 
 Iurii Chubak starts his post-doc (11/23/2020)
 =============================================

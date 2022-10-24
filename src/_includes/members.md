@@ -12,6 +12,8 @@ Current members
 
 * Jeongmin Kim is a post-doctoral research associate, working on molecular simulations of concentrated electrolytes, to understand Surface Force Balance experiments. 
 
+* Swetha Nair is a PhD student, working on molecular simulations of electrode-electrolyte interfaces, to understand nano-electrochemistry experiments.
+
 * [Mathieu Salanne](https://www.phenix.cnrs.fr/spip.php?article305) is a professor at Sorbonne Université.  Within SENSES, he brings his expertise on the development of molecular simulation for electrochemical interfaces, in particular as the main developper of the [MetalWalls](https://gitlab.com/ampere2/metalwalls/) code.
  
 * [Guillaume Jeanmairet](https://www.phenix.cnrs.fr/spip.php?rubrique328) is a CNRS researcher. Within SENSES, he brings his expertise on the development of molecular density functional theory for electrochemical interfaces.
