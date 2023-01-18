@@ -1,3 +1,8 @@
+Iurii Chubak finishes his post-doc (11/22/2022)
+===============================================
+
+After two years working on the SENSES project, Iurii started his new position as a Researcher in the French company Michelin, based in Clermont-Ferrand. Congratulations to Iurii for all his achievements during his stay in the PHENIX lab!
+
 Swetha Nair starts her PhD (10/10/2022)
 ==============================================
 
