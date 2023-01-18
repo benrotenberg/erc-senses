@@ -29,6 +29,10 @@ The SENSES project focuses on theory and simulation, but benefits from collabora
 
 * [Susan Perkin](http://research.chem.ox.ac.uk/susan-perkin.aspx) is a professor at Oxford University. Within SENSES, she brings her expertise on Surface Force Balance experiments.
 
+Past members
+============ 
+
+* Iurii Chubak was a post-doctoral research associate, working on molecular simulations of electric field gradient fluctuations in electrolytes, to understand the NMR relaxation of quadrupolar nuclei.
 
 Others
 ======
@@ -42,12 +46,6 @@ They are not funded by the project, but work with the principal investigator on 
 * [Sophie Marbach](http://sophie.marbach.fr/) is a Marie Sklodowska Curie Research fellow, principal investigator of the Molecular Control project (2020-2023), for the fine control of molecular or ionic transport  in  non  equilibrium  systems  driven  by  electric  or  chemical  gradients. The project is hosted by CNRS at the PHENIX laboratory (with Benjamin Rotenberg) and in the Courant Institute of New York University (with Alexandr Donev and Miranda Holmes-Cerfon).
 
 * [Maximilien Levesque](https://www.researchgate.net/profile/Maximilien_Levesque) is a CNRS researcher. He is the other main developer of the [LABOETIE](https://github.com/benrotenberg/laboetie) code.
-
-Past members
-============ 
-
-* Iurii Chubak was a post-doctoral research associate, working on molecular simulations of electric field gradient fluctuations in electrolytes, to understand the NMR relaxation of quadrupolar nuclei.
-
 
 <br>
 
