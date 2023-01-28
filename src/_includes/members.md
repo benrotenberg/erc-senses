@@ -32,18 +32,18 @@ The SENSES project focuses on theory and simulation, but benefits from collabora
 Past members
 ============ 
 
-* Iurii Chubak was a post-doctoral research associate, working on molecular simulations of electric field gradient fluctuations in electrolytes, to understand the NMR relaxation of quadrupolar nuclei.
+* Iurii Chubak was a post-doctoral research associate, working on molecular simulations of electric field gradient fluctuations in electrolytes, to understand the NMR relaxation of quadrupolar nuclei. He is now a staff scientist in the Michelin company.
 
 Others
 ======
 
 They are not funded by the project, but work with the principal investigator on closely related topics:
 
-* [Laura Scalfi](https://www.sorbonne-universite.fr/portraits/laura-scalfi) is a former PhD student (funded by the Ministry of Higher Education, Research and Innovation), supervised by Benjamin Rotenberg. During her PhD (2018-2021), she studied electrochemical interfaces using molecular simulations, including charge fluctuations, and is one of the main developers of the [MetalWalls](https://gitlab.com/ampere2/metalwalls/) code. She contributed to different aspects of the SENSES project and is co-author of several resulting publications.
+* [Laura Scalfi](https://www.sorbonne-universite.fr/portraits/laura-scalfi) is a former PhD student (funded by the Ministry of Higher Education, Research and Innovation), supervised by Benjamin Rotenberg. During her PhD (2018-2021), she studied electrochemical interfaces using molecular simulations, including charge fluctuations, and is one of the main developers of the [MetalWalls](https://gitlab.com/ampere2/metalwalls/) code. She contributed to different aspects of the SENSES project and is co-author of several resulting publications. She is now a post-doctoral researcher at the Freie Universität Berlin.
 
-* Dominika Lesnicki is a former post-doctoral research associate (funded by the ANR-DFG NEPTUNE project then by the FET-OPEN NANOPHLOW project), working with Benjamin Rotenberg from 2018 to 2020, on electric current fluctuations to predict the non-linear response of electrolytes to electric fields. She contributed to one of the publications of the SENSES project.
+* Dominika Lesnicki is a former post-doctoral research associate (funded by the ANR-DFG NEPTUNE project then by the FET-OPEN NANOPHLOW project), working with Benjamin Rotenberg from 2018 to 2020, on electric current fluctuations to predict the non-linear response of electrolytes to electric fields. She contributed to one of the publications of the SENSES project. She is now a post-doctoral researcher at CEA. 
 
-* [Sophie Marbach](http://sophie.marbach.fr/) is a Marie Sklodowska Curie Research fellow, principal investigator of the Molecular Control project (2020-2023), for the fine control of molecular or ionic transport  in  non  equilibrium  systems  driven  by  electric  or  chemical  gradients. The project is hosted by CNRS at the PHENIX laboratory (with Benjamin Rotenberg) and in the Courant Institute of New York University (with Alexandr Donev and Miranda Holmes-Cerfon).
+* [Sophie Marbach](http://sophie.marbach.fr/) was a Marie Sklodowska Curie Research fellow, principal investigator of the Molecular Control project (2020-2023), for the fine control of molecular or ionic transport  in  non  equilibrium  systems  driven  by  electric  or  chemical  gradients. The project is hosted by CNRS at the PHENIX laboratory (with Benjamin Rotenberg) and in the Courant Institute of New York University (with Alexandr Donev and Miranda Holmes-Cerfon). She is now a CNRS researcher in the PHENIX laboratory.
 
 * [Maximilien Levesque](https://www.researchgate.net/profile/Maximilien_Levesque) is a CNRS researcher. He is the other main developer of the [LABOETIE](https://github.com/benrotenberg/laboetie) code.
 
