@@ -1,7 +1,12 @@
+Jeongmin Kim finishes his post-doc (02/20/2023)
+===============================================
+
+Jeongmin started his new position as an Assistant Professor at KENTECH, based in Naju, Korea. Congratulations!
+
 Iurii Chubak finishes his post-doc (11/22/2022)
 ===============================================
 
-After two years working on the SENSES project, Iurii started his new position as a Researcher in the French company Michelin, based in Clermont-Ferrand. Congratulations to Iurii for all his achievements during his stay in the PHENIX lab!
+Iurii started his new position as a Researcher in the French company Michelin, based in Clermont-Ferrand. Congratulations!
 
 Swetha Nair starts her PhD (10/10/2022)
 ==============================================
