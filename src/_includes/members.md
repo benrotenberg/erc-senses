@@ -8,8 +8,6 @@ Current members
 
 * Giovanni Pireddu is a post-doctoral research associate, working on mesoscopic simulations of electrode-electrolyte interfaces, to understand nano-electrochemistry experiments.
 
-* Jeongmin Kim is a post-doctoral research associate, working on molecular simulations of concentrated electrolytes, to understand Surface Force Balance experiments. 
-
 * Swetha Nair is a PhD student, working on molecular simulations of electrode-electrolyte interfaces, to understand nano-electrochemistry experiments.
 
 * [Mathieu Salanne](https://phenix.cnrs.fr/en/directory/?uid=mathieu-salanne) is a professor at Sorbonne Université.  Within SENSES, he brings his expertise on the development of molecular simulation for electrochemical interfaces, in particular as the main developper of the [MetalWalls](https://gitlab.com/ampere2/metalwalls/) code.
@@ -25,7 +23,7 @@ The SENSES project focuses on theory and simulation, but benefits from collabora
 
 * [Vincent Noël](http://www.chimie.univ-paris-diderot.fr/fr/annuaire/itodys/vincent-noel) is a professor at Université de Paris. Within SENSES, he brings his expertise on electrochemical sensors in fluidic devices.
 
-* Several members of the PHENIX laboratory bring their expertise on NMR relaxometry experiments: [Anne-Laure Rollet](https://phenix.cnrs.fr/en/directory/?uid=anne-laure-rollet) (CNRS researcher), [Guillaume Mériguet](https://phenix.cnrs.fr/directory/?uid=guillaume-meriguet) (professor at Sorbonne Université), [Pierre Levitz](https://phenix.cnrs.fr/directory/?uid=pierre-levitz) and [Jean-Pierre Korb](https://phenix.cnrs.fr/directory/?uid=jean-pierre-korb) (senior CNRS researchers).
+* Several members of the PHENIX laboratory bring their expertise on NMR relaxometry experiments: [Anne-Laure Rollet](https://phenix.cnrs.fr/en/directory/?uid=anne-laure-rollet) (CNRS researcher), [Guillaume Mériguet](https://phenix.cnrs.fr/directory/?uid=guillaume-meriguet) (professor at Sorbonne Université), [Pierre Levitz](https://phenix.cnrs.fr/directory/?uid=pierre-levitz) and [Jean-Pierre Korb](https://phenix.cnrs.fr/directory/?uid=jean-pierre-korb) (senior CNRS researchers). On this topic we also collaborate with [Alexej Jerschow](https://wp.nyu.edu/jerschow/) at New York University.
 
 * [Susan Perkin](http://research.chem.ox.ac.uk/susan-perkin.aspx) is a professor at Oxford University. Within SENSES, she brings her expertise on Surface Force Balance experiments.
 
@@ -33,6 +31,9 @@ Past members
 ============ 
 
 * Iurii Chubak was a post-doctoral research associate, working on molecular simulations of electric field gradient fluctuations in electrolytes, to understand the NMR relaxation of quadrupolar nuclei. He is now a staff scientist in the [Michelin](https://www.michelin.com/) company.
+
+* Jeongmin Kim was a post-doctoral research associate, working on molecular simulations of concentrated electrolytes, to understand Surface Force Balance experiments. He is now an Assistant Professor at [KENTECH](https://www.kentech.ac.kr) in Korea.
+
 
 Others
 ======
