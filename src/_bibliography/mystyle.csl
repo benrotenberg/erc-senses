@@ -82,7 +82,7 @@
             <text variable="volume"/>
             <text variable="issue" prefix="(" suffix=")"/>
             </group>
-            <text variable="page" prefix=":" suffix=","/>
+            <text variable="page" prefix="," suffix=","/>
             <date variable="issued">
               <date-part name="year"/>
             </date>
