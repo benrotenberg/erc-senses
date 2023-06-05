@@ -1,4 +1,4 @@
-Matthieu Wolf start his post-doc (01/06/2023)
+Matthieu Wolf start his post-doc (06/01/2023)
 =============================================
 
 Matthieu will work on molecular simulations of electric field gradient fluctuations in electrolytes, to understand the NMR relaxation of quadrupolar nuclei. 
