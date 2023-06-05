@@ -10,6 +10,8 @@ Current members
 
 * Swetha Nair is a PhD student, working on molecular simulations of electrode-electrolyte interfaces, to understand nano-electrochemistry experiments.
 
+* Matthieu Wolf is a post-doctoral research associate, working on molecular simulations of electric field gradient fluctuations in electrolytes, to understand the NMR relaxation of quadrupolar nuclei. 
+
 * [Mathieu Salanne](https://phenix.cnrs.fr/en/directory/?uid=mathieu-salanne) is a professor at Sorbonne Université.  Within SENSES, he brings his expertise on the development of molecular simulation for electrochemical interfaces, in particular as the main developper of the [MetalWalls](https://gitlab.com/ampere2/metalwalls/) code.
  
 * [Guillaume Jeanmairet](https://phenix.cnrs.fr/en/directory/?uid=guillaume-jeanmairet) is a CNRS researcher. Within SENSES, he brings his expertise on the development of molecular density functional theory for electrochemical interfaces.
