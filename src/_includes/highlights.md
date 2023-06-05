@@ -1,3 +1,11 @@
+Matthieu Wolf start his post-doc (01/06/2023)
+=============================================
+
+Matthieu will work on molecular simulations of electric field gradient fluctuations in electrolytes, to understand the NMR relaxation of quadrupolar nuclei. 
+
+On the experimental side, we will benefit from the expertise of colleagues in the PHENIX laboratory: Anne-Laure Rollet, Guillaume Mériguet, Pierre Levitz and Jean-Pierre Korb.
+
+
 Jeongmin Kim finishes his post-doc (02/20/2023)
 ===============================================
 
