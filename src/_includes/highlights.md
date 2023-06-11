@@ -1,5 +1,5 @@
-Matthieu Wolf start his post-doc (06/01/2023)
-=============================================
+Matthieu Wolf starts his post-doc (06/01/2023)
+==============================================
 
 Matthieu will work on molecular simulations of electric field gradient fluctuations in electrolytes, to understand the NMR relaxation of quadrupolar nuclei. 
 
@@ -11,10 +11,12 @@ Jeongmin Kim finishes his post-doc (02/20/2023)
 
 Jeongmin started his new position as an Assistant Professor at KENTECH, based in Naju, Korea. Congratulations!
 
+
 Iurii Chubak finishes his post-doc (11/22/2022)
 ===============================================
 
 Iurii started his new position as a Researcher in the French company Michelin, based in Clermont-Ferrand. Congratulations!
+
 
 Swetha Nair starts her PhD (10/10/2022)
 ==============================================
@@ -54,6 +56,7 @@ Iurii Chubak starts his post-doc (11/23/2020)
 Iurii will work on molecular simulations of electric field gradient fluctuations in electrolytes, to understand the NMR relaxation of quadrupolar nuclei. 
 
 On the experimental side, we will benefit from the expertise of colleagues in the PHENIX laboratory: Anne-Laure Rollet, Guillaume Mériguet, Pierre Levitz and Jean-Pierre Korb.
+
 
 Minh-Thé Hoang Ngoc starts his PhD (10/1/2020)
 ==============================================
