@@ -1,3 +1,9 @@
+Minh-Thé Hoang Ngoc defends his PhD (09/18/2023)
+===============================================
+
+Minh-Thé sucessfully defended his PhD, congratulations!
+
+
 Sleeba Varghese starts his post-doc (9/1/2023)
 ==============================================
 
