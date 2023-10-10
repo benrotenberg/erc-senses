@@ -3,6 +3,8 @@ Minh-Thé Hoang Ngoc defends his PhD (09/18/2023)
 
 Minh-Thé sucessfully defended his PhD, congratulations!
 
+He will leave the PHENIX lab for new adventures at the end of the month.
+
 
 Sleeba Varghese starts his post-doc (9/1/2023)
 ==============================================
