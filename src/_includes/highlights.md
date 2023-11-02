@@ -1,3 +1,9 @@
+Giovanni Pireddu finishes his post-doc (10/31/2023)
+===================================================
+
+Giovanni started his new position as a Researcher in the French company Naarea. Congratulations!
+
+
 Minh-Thé Hoang Ngoc defends his PhD (09/18/2023)
 ===============================================
 
