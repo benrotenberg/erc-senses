@@ -61,7 +61,7 @@ ld: warning: ignoring file '/usr/local/lib/libz.a[3](compress.o)': found archite
 ld: warning: ignoring file '/usr/local/lib/libz.a[2](adler32.o)': found architecture 'x86_64', required architecture 'arm64'
 ld: Undefined symbols:
   _gzdopen, referenced from:
-      _t in conftest-0011f0.o
+      _t in conftest-105949.o
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
 /* begin */

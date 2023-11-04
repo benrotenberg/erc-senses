@@ -1,5 +1,5 @@
 current directory: /Users/ben/CNRS/SENSES/WEBSITE/erc-senses/src/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.10/ext/nokogiri
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20231102-11044-hmyfva.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20231102-11166-1vo7uz9.rb extconf.rb
 checking if the C compiler accepts  -I /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/libxml2... yes
 checking if the C compiler accepts -Wno-error=unused-command-line-argument-hard-error-in-future... no
 Building nokogiri using packaged libraries.
