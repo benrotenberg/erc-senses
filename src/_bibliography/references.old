@@ -1,0 +1,328 @@
+%
+% SPECIFIC FIELDS FOR THE WEB PAGES GENERATION ARE:
+% - DOI : the DOI of the bib item
+% - HAL_ID : the HAL URL of the bib item
+% - OPTLINK : the link to a page about the bib item (if not on DOI or HAL)
+% - PDF : the link to the PDF of the bib item
+% - PP_KIND : the kind of bib item (for sorting based on it) {international, national}
+% - PP_RANK : the rank of the bib item in the year (for sorting based on it)
+% - PP_SHORTBOOKTITLE : for conferences/workshops, abbreviation of it
+
+%
+%    DOI = {xxxx/xxxx},
+%    HAL_ID = {hal-xxxx},
+%    OPTLINK = {http://...},
+%    PDF = {https://hal.inria.fr/hal-xxxx/document},
+%    PP_KIND = {international/national},  %%%% national for preprints, international for publications
+%    PP_RANK = {1/2/3...},
+%    PP_SHORTBOOKTITLE = {xxx},
+
+% TODO : check no duplicates & no false positives on HAL
+
+%
+% ----- ARTICLES -----
+%
+
+@article{coles_revelsMD_2023a,
+	title = {RevelsMD: Reduced Variance Estimators of the Local Structure in Molecular Dynamics},
+	author = {S.W. Coles and B.J. Morgan and B. Rotenberg},
+	journal = {arXiv},
+	%volume = {},
+	%number = {},
+	%pages = {},
+	%year = {},
+	doi = {10.48550/arXiv.2310.06149},
+	PP_KIND = {national}
+}
+
+
+@article{pireddu_impedance_2023a,
+	title = {Impedance of nanocapacitors from molecular simulations to understand the dynamics of confined electrolytes},
+	author = {G. Pireddu and C. Fairchild and S. Niblett and S.J. Cox and B. Rotenberg},
+	journal = {ChemRxiv},
+	%volume = {},
+	%number = {},
+	%pages = {},
+	%year = {},
+	doi = {10.26434/chemrxiv-2023-2ccrw},
+	PP_KIND = {national}
+}
+
+
+
+@article{palaia_charging_2023b,
+	title = {Poisson-Nernst-Planck charging dynamics of an electric double layer capacitor: symmetric and asymmetric binary electrolytes},
+	author = {I. Palaia and A.J. Asta and P.B. Warren and B. Rotenberg and E. Trizac},
+	journal = {arXiv},
+	%volume = {},
+	%number = {},
+	%pages = {},
+	%year = {},
+	doi = {10.48550/arXiv.2303.07859},
+	PP_KIND = {national}
+}
+
+
+@article{palaia_charging_2023a,
+	title = {Charging dynamics of electric double layer nanocapacitors in mean-field},
+	author = {I. Palaia and A.J. Asta and P.B. Warren and B. Rotenberg and E. Trizac},
+	journal = {arXiv},
+	%volume = {},
+	%number = {},
+	%pages = {},
+	%year = {},
+	doi = {10.48550/arXiv.2301.00610},
+	PP_KIND = {national}
+}
+
+@article{bernard_analytical_2023a,
+	title = {On analytical theories for conductivity and self-diffusion in concentrated electrolytes},
+	author = {O. Bernard and M. Jardat and B. Rotenberg and P. Illien},
+	journal = {J. Chem. Phys.},
+	volume = {159},
+	number = {16},
+	pages = {164105},
+	year = {2023},
+	doi = {10.1063/5.0165533},
+	PP_KIND = {international}
+}
+
+@article{kim_grand-canonical_2023a,
+	title = {Grand-canonical molecular dynamics simulations powered by a hybrid 4D nonequilibrium MD/MC method: Implementation in LAMMPS and applications to electrolyte solutions},
+	author = {J. Kim and L. Belloni and B. Rotenberg},
+	journal = {J. Chem. Phys.},
+	volume = {159},
+	number = {14},
+	pages = {144802},
+	year = {2023},
+	doi = {10.1063/5.0168878},
+	PP_KIND = {international}
+}
+
+
+@article{hoangngocminh_electrical_2023b,
+	title = {Electrical noise in electrolytes: a theoretical perspective},
+	author = {T. Hoang Ngoc Minh and J. Kim and G. Pireddu and I. Chubak and S. Nair and B. Rotenberg},
+	journal = {Faraday Discuss.},
+	volume = {246},
+	number = {},
+	pages = {198},
+	year = {2023},
+	doi = {10.1039/D3FD00026E},
+	PP_KIND = {international}
+}
+
+@article{hoangngocminh_ionic_2023c,
+	title = {Ionic fluctuations in finite volumes: fractional noise and hyperuniformity},
+	author = {T. Hoang Ngoc Minh and B. Rotenberg and S. Marbach},
+	journal = {Faraday Discuss.},
+	volume = {246},
+	number = {},
+	pages = {225},
+	year = {2023},
+	doi = {10.1039/D3FD00031A},
+	PP_KIND = {international}
+}
+
+@article{pireddu_frequency-dependent_2023a,
+	title = {Frequency-dependent impedance of nanocapacitors from electrode charge fluctuations as a probe of electrolyte dynamics},
+	author = {G. Pireddu and B. Rotenberg},
+	journal = {Phys. Rev. Lett.},
+	volume = {130},
+	number = {},
+	pages = {098001},
+	year = {2023},
+	doi = {10.1103/PhysRevLett.130.098001},
+	PP_KIND = {international}
+}
+
+
+@article{hoangngocminh_frequency_2023a,
+	title = {Frequency and field-dependent response of confined electrolytes from Brownian dynamics simulations},
+	author = {T. Hoang Ngoc Minh and G. Stoltz and B. Rotenberg},
+	journal = {J. Chem. Phys.},
+	volume = {158},
+	number = {},
+	pages = {104103},
+	year = {2023},
+	doi = {10.1063/5.0139258},
+	PP_KIND = {international}
+}
+
+
+@article{chubak_quadrupolar_2023a,
+	title = {Quadrupolar $^{23}$Na$^+$ NMR Relaxation as a Probe of Subpicosecond Collective Dynamics in Aqueous Electrolyte Solutions},
+	author = {I. Chubak and L. Alon and E. Silletta and G. Madelin and A. Jerschow and B. Rotenberg},
+	journal = {Nature Commun.},
+	volume = {14},
+	number = {1},
+	pages = {84},
+	year = {2023},
+	doi = {10.1038/s41467-022-35695-3},
+	PP_KIND = {international}
+}
+
+@article{jeanmairet_microscopic_2022a,
+	title = {Microscopic Simulations of Electrochemical Double-Layer Capacitors},
+	author = {G. Jeanmairet and B. Rotenberg and M. Salanne},
+	journal = {Chem. Rev.},
+	volume = {122},
+	number = {12},
+	pages = {10680},
+	year = {2022},
+	doi = {10.1021/acs.chemrev.1c00925},
+	PP_KIND = {international}
+}
+
+@article{coretti_metalwalls_2022a,
+	title = {MetalWalls: Simulating electrochemical interfaces between polarizable
+electrolytes and metallic electrodes},
+	author = {A. Coretti and C. Bacon and R. Berthin and A. Serva and L. Scalfi and I. Chubak and K. Goloviznina and M. Haefele and A. Marin-Lafl\`eche and B. Rotenberg and S. Bonella and M. Salanne},
+	journal = {J. Chem. Phys.},
+	volume = {157},
+	number = {18},
+	pages = {184801},
+	year = {2022},
+	doi = {10.1063/5.0101777},
+	PP_KIND = {international}
+}
+
+@article{loche_effects_2022a,
+	title = {Effects of surface rigidity and metallicity on dielectric properties and ion interactions at aqueous hydrophobic interfaces},
+	author = {P. Loche and L. Scalfi and M.A. Amu and O. Schullian and D.J. Bonthuis and B. Rotenberg and R.R Netz},
+	journal = {J. Chem. Phys.},
+	volume = {157},
+	number = {9},
+	pages = {094707},
+	year = {2022},
+	doi = {10.1063/5.0101509},
+	PP_KIND = {international}
+}
+
+@article{vroylandt2022a,
+	Author = {H. Vroylandt and L. Gouden\`ege and P. Monmarch\'e and F. Pietrucci and B. Rotenberg},
+	Title = {Likelihood-based non-Markovian models from molecular dynamics},
+	Journal = {PNAS},
+	Volume = {119},
+	Pages = {e2117586119},
+	Year = {2022},
+	DOI = {10.1073/pnas.2117586119},
+	PP_KIND = {international}
+}
+
+@article{mangaud2022a,
+	Author = {E. Mangaud and M.-L. Bocquet and L. Bocquet and B. Rotenberg},
+	Title = {Chemi-sorbed versus physi-sorbed surface charge and its impact on electrokinetic transport: carbon versus boron-nitride surface},
+	Journal = {J. Chem. Phys.},
+	Volume = {156},
+	Pages = {044703},
+	Year = {2022},
+	DOI = {10.1063/5.0074808},
+	PP_KIND = {international}
+}
+
+
+@article{scalfi2021c,
+	Author = {L. Scalfi and B. Rotenberg},
+	Title = {Microscopic origin of the effect of substrate metallicity on interfacial free energies},
+	Journal = {PNAS},
+	Volume = {118},
+	Pages = {e2108769118},
+	Year = {2021},
+	DOI = {10.1073/pnas.2108769118},
+	PP_KIND = {international}
+}
+
+@article{pireddu2021a,
+	Author = {G. Pireddu and L. Scalfi and B. Rotenberg},
+	Title = {A molecular perspective on induced charges on a metallic surface},
+	Journal = {J. Chem. Phys.},
+	Volume = {155},
+	Pages = {204705},
+	Year = {2021},
+	DOI = {10.1063/5.0076127},
+	PP_KIND = {international}
+}
+
+@article{chubak2021a,
+	Author = {I. Chubak and L. Scalfi and A. Carof and B. Rotenberg},
+	Title = {NMR Relaxation Rates of Quadrupolar Aqueous Ions from Classical Molecular Dynamics Using Force-Field Specific Sternheimer Factors},
+	Journal = {J. Chem. Theory Comput.},
+	Volume = {17},
+	Pages = {6006},
+	Year = {2021},
+	DOI = {10.1021/acs.jctc.1c00690},
+	PP_KIND = {international}
+}
+
+@article{serva2021a,
+	Author = {A. Serva and L. Scalfi and B. Rotenberg and M. Salanne},
+	Title = {Effect of the metallicity on the capacitance of gold -- aqueous sodium
+chloride interfaces},
+	Journal = {J. Chem. Phys.},
+	Volume = {155},
+	Pages = {044703},
+	Year = {2021},
+	DOI = {10.1063/5.0060316},
+	PP_KIND = {international}
+}
+
+@article{lesnicki2021a,
+	Author = {D. Lesnicki and C.Y. Gao and D.T. Limmer and B. Rotenberg},
+	Title = {On the molecular correlations that result in field-dependent conductivities in electrolyte solutions},
+	Journal = {J. Chem. Phys.},
+	Volume = {155},
+	Pages = {014507},
+	Year = {2021},
+	DOI = {10.1063/5.0052860},
+	PP_KIND = {international}
+}
+
+@article{coles2021a,
+	Author = {S.W. Coles and E. Mangaud and D. Frenkel and B. Rotenberg},
+	Title = {Reduced variance analysis of molecular dynamics simulations by linear
+combination of estimators},
+	Journal = {J. Chem. Phys.},
+	Volume = {154},
+	Pages = {191101},
+	Year = {2021},
+	DOI = {10.1063/5.0053737},
+	PP_KIND = {international}
+}
+
+@article{scalfi2021b,
+	Author = {L. Scalfi and M. Salanne and B. Rotenberg},
+	Title = {Molecular simulation of electrode-solution interfaces},
+	Journal = {Ann. Rev. Phys. Chem.},
+	Volume = {72},
+	Pages = {189},
+	Year = {2021},
+	DOI = {10.1146/annurev-physchem-090519-024042},
+	PP_KIND = {international}
+}
+
+@article{scalfi2021a,
+	Author = {L. Scalfi and B. Coasne and B. Rotenberg},
+	Title = {On the Gibbs-Thomson equation for the crystallization of confined fluids},
+	Journal = {J. Chem. Phys.},
+	Volume = {154},
+	Pages = {114711},
+	Year = {2021},
+	DOI = {10.1063/5.0044330},
+	PP_KIND = {international}
+}
+
+@article{rotenberg2020a,
+	Author = {B. Rotenberg},
+	Title = {Use the force! Reduced variance estimators for densities, radial distribution functions, and local mobilities in molecular simulations},
+	Journal = {J. Chem. Phys.},
+	Volume = {153},
+	Pages = {150902},
+	Year = {2020},
+	DOI = {10.1063/5.0029113},
+	PP_KIND = {international}
+}
+
+
+
+

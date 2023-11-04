@@ -18,7 +18,7 @@
   <macro name="author">
     <group>
       <names variable="author">
-        <name and="text", delimiter=", " delimiter-precedes-et-al="never", delimiter-precedes-last="contextual"/>
+        <!-- <name and="text", delimiter=", " delimiter-precedes-et-al="never", delimiter-precedes-last="contextual"/> -->
         <label form="short" prefix=" " strip-periods="true"/>
         <substitute>
           <names variable="editor"/>
