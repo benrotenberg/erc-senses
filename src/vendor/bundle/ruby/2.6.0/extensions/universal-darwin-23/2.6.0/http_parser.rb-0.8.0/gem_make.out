@@ -1,5 +1,5 @@
 current directory: /Users/ben/CNRS/SENSES/WEBSITE/erc-senses/src/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20231104-65917-s5ir2e.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20231104-79528-1gi3wmr.rb extconf.rb
 creating Makefile
 
 current directory: /Users/ben/CNRS/SENSES/WEBSITE/erc-senses/src/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
@@ -466,4 +466,4 @@ ld: warning: search path '/AppleInternal/Library/BuildRoots/11aa8fb2-5f4b-11ee-b
 
 current directory: /Users/ben/CNRS/SENSES/WEBSITE/erc-senses/src/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20231104-65917-cphrxf
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20231104-79528-10u01jc
