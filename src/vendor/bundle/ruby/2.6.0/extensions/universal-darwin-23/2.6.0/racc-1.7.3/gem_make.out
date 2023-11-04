@@ -1,0 +1,17 @@
+current directory: /Users/ben/CNRS/SENSES/WEBSITE/erc-senses/src/vendor/bundle/ruby/2.6.0/gems/racc-1.7.3/ext/racc/cparse
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20231104-20549-11txmpn.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ben/CNRS/SENSES/WEBSITE/erc-senses/src/vendor/bundle/ruby/2.6.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /Users/ben/CNRS/SENSES/WEBSITE/erc-senses/src/vendor/bundle/ruby/2.6.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: search path '/AppleInternal/Library/BuildRoots/11aa8fb2-5f4b-11ee-bc7f-926038f30c31/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.1.Internal.sdk/usr/local/lib' not found
+
+current directory: /Users/ben/CNRS/SENSES/WEBSITE/erc-senses/src/vendor/bundle/ruby/2.6.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20231104-20549-13lwqv2/racc
