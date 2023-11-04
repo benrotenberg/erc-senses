@@ -279,7 +279,7 @@ ld: warning: ignoring duplicate libraries: '-lffi'
 ld: warning: search path '/AppleInternal/Library/BuildRoots/11aa8fb2-5f4b-11ee-bc7f-926038f30c31/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.1.Internal.sdk/usr/local/lib' not found
 ld: Undefined symbols:
   _rb_gc_mark_movable, referenced from:
-      _t in conftest-c2f8e5.o
+      _t in conftest-ea1fb2.o
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
 /* begin */

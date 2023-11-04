@@ -1,5 +1,5 @@
 current directory: /Users/ben/CNRS/SENSES/WEBSITE/erc-senses/src/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20231104-30595-jb9iq1.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20231104-65917-iowmjo.rb extconf.rb
 creating Makefile
 
 current directory: /Users/ben/CNRS/SENSES/WEBSITE/erc-senses/src/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
@@ -15,4 +15,4 @@ ld: warning: search path '/AppleInternal/Library/BuildRoots/11aa8fb2-5f4b-11ee-b
 
 current directory: /Users/ben/CNRS/SENSES/WEBSITE/erc-senses/src/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20231104-30595-hf1z6z
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20231104-65917-1r86om0
