@@ -1,3 +1,11 @@
+Paul Desmarchelier starts his post-doc (01/10/2024)
+===================================================
+
+Paul will work on mesoscopic simulations of electrode-electrolyte interfaces, to understand nano-electrochemistry experiments.
+ 
+On the experimental side, we will benefit from a collaboration with Vincent Noël at Université Paris Cité.
+
+
 Giovanni Pireddu finishes his post-doc (10/31/2023)
 ===================================================
 

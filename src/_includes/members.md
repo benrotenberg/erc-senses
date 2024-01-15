@@ -4,15 +4,13 @@ Current members
 
 * [Benjamin Rotenberg](https://phenix.cnrs.fr/en/directory/?uid=benjamin-rotenberg) is the principal investigator of the project.
 
-* Minh-Thé Hoang Ngoc is a PhD student, working on mesoscopic simulations of ionic current fluctuations through nanotubes.
-
-* Giovanni Pireddu is a post-doctoral research associate, working on mesoscopic simulations of electrode-electrolyte interfaces, to understand nano-electrochemistry experiments.
-
 * Swetha Nair is a PhD student, working on molecular simulations of electrode-electrolyte interfaces, to understand nano-electrochemistry experiments.
 
 * Matthieu Wolf is a post-doctoral research associate, working on molecular simulations of electric field gradient fluctuations in electrolytes, to understand the NMR relaxation of quadrupolar nuclei. 
 
 * Sleeba Varghese is a post-doctoral research associate, working on mesoscopic simulations of ionic current fluctuations through nanotubes.
+
+* Paul Desmarchelier is a post-doctoral research associate, working on mesoscopic simulations of electrode-electrolyte interfaces, to understand nano-electrochemistry experiments.
 
 * [Mathieu Salanne](https://phenix.cnrs.fr/en/directory/?uid=mathieu-salanne) is a professor at Sorbonne Université.  Within SENSES, he brings his expertise on the development of molecular simulation for electrochemical interfaces, in particular as the main developper of the [MetalWalls](https://gitlab.com/ampere2/metalwalls/) code.
  
@@ -38,6 +36,9 @@ Past members
 
 * Jeongmin Kim was a post-doctoral research associate, working on molecular simulations of concentrated electrolytes, to understand Surface Force Balance experiments. He is now an Assistant Professor at [KENTECH](https://www.kentech.ac.kr) in Korea.
 
+* Minh-Thé Hoang Ngoc was a PhD student, working on mesoscopic simulations of ionic current fluctuations through nanotubes.
+
+* Giovanni Pireddu was a post-doctoral research associate, working on mesoscopic simulations of electrode-electrolyte interfaces, to understand nano-electrochemistry experiments. He is now a staff scientist in the [Naarea](https://www.naarea.fr/en) company.
 
 Others
 ======
