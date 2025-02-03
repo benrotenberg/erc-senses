@@ -1,3 +1,16 @@
+Marinella de Giovanetti starts her post-doc (02/01/2025)
+========================================================
+
+Marinella will work on molecular simulations of electric field gradient fluctuations in electrolytes, to understand the NMR relaxation of quadrupolar nuclei. 
+
+On the experimental side, we will benefit from the expertise of colleagues in the PHENIX laboratory: Anne-Laure Rollet, Guillaume Mériguet, Pierre Levitz and Jean-Pierre Korb.
+
+
+Matthieu Wolf finishes his post-doc (10/31/2024)
+================================================
+
+Matthieu starts his new position as a research engineer in the Chemistry Laboratory at ENS Lyon. Congratulations!
+
 Paul Desmarchelier starts his post-doc (01/10/2024)
 ===================================================
 

@@ -4,9 +4,9 @@ Current members
 
 * [Benjamin Rotenberg](https://phenix.cnrs.fr/en/directory/?uid=benjamin-rotenberg) is the principal investigator of the project.
 
-* Swetha Nair is a PhD student, working on molecular simulations of electrode-electrolyte interfaces, to understand nano-electrochemistry experiments.
+* Marinella de Giovanetti is a post-doctoral research associate, working on molecular simulations of electric field gradient fluctuations in electrolytes, to understand the NMR relaxation of quadrupolar nuclei. 
 
-* Matthieu Wolf is a post-doctoral research associate, working on molecular simulations of electric field gradient fluctuations in electrolytes, to understand the NMR relaxation of quadrupolar nuclei. 
+* Swetha Nair is a PhD student, working on molecular simulations of electrode-electrolyte interfaces, to understand nano-electrochemistry experiments.
 
 * Sleeba Varghese is a post-doctoral research associate, working on mesoscopic simulations of ionic current fluctuations through nanotubes.
 
@@ -39,6 +39,9 @@ Past members
 * Minh-Thé Hoang Ngoc was a PhD student, working on mesoscopic simulations of ionic current fluctuations through nanotubes.
 
 * Giovanni Pireddu was a post-doctoral research associate, working on mesoscopic simulations of electrode-electrolyte interfaces, to understand nano-electrochemistry experiments. He is now a staff scientist in the [Naarea](https://www.naarea.fr/en) company.
+
+* Matthieu Wolf was a post-doctoral research associate, working on molecular simulations of electric field gradient fluctuations in electrolytes, to understand the NMR relaxation of quadrupolar nuclei. He is now a research engineer in the Chemistry Laboratory at [ENS Lyon](https://www.ens-lyon.fr/CHIMIE/).
+
 
 Others
 ======
