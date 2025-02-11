@@ -11,6 +11,7 @@ Matthieu Wolf finishes his post-doc (10/31/2024)
 
 Matthieu starts his new position as a research engineer in the Chemistry Laboratory at ENS Lyon. Congratulations!
 
+
 Paul Desmarchelier starts his post-doc (01/10/2024)
 ===================================================
 
