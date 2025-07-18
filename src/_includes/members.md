@@ -16,6 +16,8 @@ Current members
  
 * [Guillaume Jeanmairet](https://phenix.cnrs.fr/en/directory/?uid=guillaume-jeanmairet) is a CNRS researcher. Within SENSES, he brings his expertise on the development of molecular density functional theory for electrochemical interfaces.
 
+* [Pierre Illien](https://phenix.cnrs.fr/en/directory/?uid=pierre-illien) is a CNRS researcher. Within SENSES, he brings his expertise on Stochastic Density Functional Theory to model thermal fluctuations in electrolytes.
+
 Collaborators
 =============
 
