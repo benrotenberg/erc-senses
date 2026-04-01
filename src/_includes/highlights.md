@@ -1,3 +1,17 @@
+End of the SENSES project (03/31/2025)
+======================================
+
+Sleeba will soon start a new postdoc in INSA Lyon, Paul is currently applying for academic positions in French universities, and Marinella who joined more recently will stay in PHENIX for some time. 
+
+
+Swetha defends her PhD (10/07/2023)
+===================================
+
+Swetha sucessfully defended her PhD, congratulations!
+
+She will soon start a postdoc at the Université de Lorraine in Nancy.
+
+
 Marinella de Giovanetti starts her post-doc (02/01/2025)
 ========================================================
 
