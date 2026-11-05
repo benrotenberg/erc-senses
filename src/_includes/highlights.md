@@ -1,10 +1,10 @@
-End of the SENSES project (03/31/2025)
+End of the SENSES project (03/31/2026)
 ======================================
 
 Sleeba will soon start a new postdoc in INSA Lyon, Paul is currently applying for academic positions in French universities, and Marinella who joined more recently will stay in PHENIX for some time. 
 
 
-Swetha defends her PhD (10/07/2023)
+Swetha defends her PhD (10/07/2025)
 ===================================
 
 Swetha sucessfully defended her PhD, congratulations!
